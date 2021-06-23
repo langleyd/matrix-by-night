@@ -1,0 +1,52 @@
+  [
+    {
+      "fileName": "Images/sunrise.png",
+      "azimuth": 100.0,
+      "altitude": 10.0,
+    },
+    {
+      "fileName": "Images/midnight.png",
+      "azimuth": 70.0,
+      "altitude": -25.0
+    },
+    {
+      "fileName": "Images/sunrise.png",
+      "azimuth": 80.0,
+      "altitude": -9.0
+    },
+    {
+      "fileName": "Images/sunrise.png",
+      "azimuth": 90.0,
+      "altitude": 0.0
+    },
+    {
+      "fileName": "Images/midday.png",
+      "azimuth": 110.0,
+      "altitude": 25.0
+    },
+    {
+      "fileName": "Images/midday.png",
+      "azimuth": 250.0,
+      "altitude": 25.0
+    },
+    {
+      "fileName": "Images/sunset.png",
+      "azimuth": 260.0,
+      "altitude": 10.0
+    },
+    {
+      "fileName": "Images/sunset.png",
+      "azimuth": 270.0,
+      "altitude": 0.0
+    },
+    {
+      "fileName": "Images/nighttime.png",
+      "azimuth": 280.0,
+      "altitude": -9.0,
+    },
+    {
+      "fileName": "Images/midnight.png",
+      "azimuth": 290.0,
+      "altitude": -25.0
+    }
+  ]
