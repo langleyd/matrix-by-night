@@ -8,7 +8,7 @@
 
 If you'd prefer to just use one of the images as your background you can find them in [Images](/Images)
 
-Here's a sample of the individual pictures is cylces through(based on the sun's location relative to your location):
+Here's a sample of the individual pictures it cylces through(based on the sun's position relative to your location):
 
 <img width="200" alt="sunrise" src="Images/sunrise.png?raw=true"> <img width="200" alt="midday" src="Images/midday.png?raw=true">
 <img width="200" alt="sunset" src="Images/sunset.png?raw=true"> <img width="200" alt="nighttime" src="Images/nighttime.png?raw=true">
