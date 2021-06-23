@@ -6,7 +6,7 @@
 2. Move it to `~/Pictures` on macOS
 3. In `System Preferences -> Desktop & Screen Saver -> Pictures` select `matrixByNight`
 
-If you'd prefer to just use one of the images as your background you can find them in `Images`
+If you'd prefer to just use one of the images as your background you can find them in [Images](/Images)
 
 Here's a sample of the individual pictures is cylces through(based on the sun's location relative to your location):
 
