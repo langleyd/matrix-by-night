@@ -2,7 +2,7 @@
  is a [matrix.org](http://matrix.org) and [element.io](http://element.io) themed dynamic background for macOS.
 
 # Apply the wallpaper
-1. [Click here](https://github.com/downloads/user/matrix-by-night/matrixByNight.heic) to download the wallpaper
+1. [Click here](https://github.com/langleyd/matrix-by-night/raw/main/matrixByNight.heic) to download the wallpaper
 2. Move it to `~/Pictures` on macOS
 3. In 'System Preferences -> Desktop & Screen Saver -> Pictures' select 'matrixByNight'
 
